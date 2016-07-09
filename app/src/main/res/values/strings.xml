@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">WindAround</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">WindAround</string>
     <string name="about">about</string>
 </resources>
